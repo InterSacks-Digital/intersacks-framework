@@ -1,0 +1,27 @@
+.bg-primary{
+    background:var(--primary-500);
+}
+
+.bg-white{
+    background:var(--color-white);
+}
+
+.bg-light{
+    background:var(--primary-50);
+}
+
+.text-primary{
+    color:var(--primary-500);
+}
+
+.text-dark{
+    color:var(--color-heading);
+}
+
+.text-white{
+    color:var(--color-white);
+}
+
+.border-primary{
+    border-color:var(--primary-500);
+}
